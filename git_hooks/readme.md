@@ -1,0 +1,1 @@
+This is a quickly hacked together post-receive git hook file to allow master branch to recreate vendors, but also allow other branches to merge in without replacing vendors. Useful on servers with low ram primarily. Use at your own risk.  
